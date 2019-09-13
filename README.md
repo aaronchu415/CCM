@@ -12,6 +12,7 @@ with MacbookPro 2.9 GHz Intel Core i5
 Clone:
 ```
 git clone https://github.com/aaronchu415/CCM.git
+cd CCM
 ```
 
 Use Virtual Environment:
